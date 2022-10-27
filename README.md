@@ -1,4 +1,4 @@
-ING website
+<h2>ING website</h2>
 <br>
 <br>
 ING is een bekende Nederlandse bank. Op de site kan je gemakkelijk je rekeningen betalen en overige informatie vinden. Het is natuurlijk erg belangrijk dat de ING website toegankelijk is voor iedereen. Als dit niet het geval is zit een ongeluk in een klein hoekje. Het is daarom van groot belang dat de informatie duidelijk te begrijpen is via een screen reader om fouten te voorkomen. 
